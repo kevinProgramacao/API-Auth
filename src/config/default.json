@@ -1,0 +1,9 @@
+{
+    "mongoURI": "",
+    "jwtSecret": "",
+    "githubClientId": "",
+    "githubSecret": "",
+    "mailServer": "",
+    "userMail": "",
+    "passMail": ""
+}
